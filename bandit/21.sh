@@ -1,4 +1,4 @@
-gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
+# gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
 
 cat /etc/cron.d/cronjob_bandit22
 # -> /usr/bin/cronjob_bandit22.sh

@@ -1,4 +1,4 @@
-pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+# pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 
 for file in $(ls inhere); do
     echo $file --- $(strings inhere/$file)
