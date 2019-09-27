@@ -71,10 +71,9 @@ done
 # ________________________________
 # ________________________________
 # just an epmty file... muahaha
-# _
+# ________________________________
 
-# we can suspiciously see see an unamed object that looks like
-# a git hash, but isn't long enough and has no type..... just
-# some kind of weird, shorter hash that's all alone.
-# Yup, that's the password
+# we can suspiciously see see a blob object that looks like a
+# git hash, but isn't long enough..... just some kind of weird,
+# shorter hash that's all alone.  Yup, that's the password
 # -> 47e603bb428404d265f59c42920d81e5
